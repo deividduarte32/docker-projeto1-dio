@@ -9,3 +9,6 @@
 
 ### Para executar
 `docker-compose up -d`
+
+### Caso queira destruir o container
+`docker-compose down`

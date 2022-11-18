@@ -4,5 +4,8 @@
 |git|docker-compose|
 |---|--------------|
 
+### Entre no diretório
+`cd docker-projeto1-dio`
+
 ### Para executar
 `docker-compose up -d`
